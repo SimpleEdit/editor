@@ -4,4 +4,4 @@ Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit websi
 ## Set Up Node Server
 ### Step 0: Clone the Github Repo
 Run `git clone https://github.com/SimpleEdit/editor` in your terminal
-Or [](https://repl.it/badge/github/SimpleEdit/editor.png)
+Or [Run and Fork On Repl.it](https://repl.it/@WilliamHorning/editor#README.md)
