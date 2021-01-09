@@ -1,3 +1,14 @@
 # SimpleEdit Editor
-This is the editor. Haven't made it yet. Lol I need help. This project is open source.
+This is the editor.
 Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit website") for more info!
+## Set Up Node Server
+### Step 0: Clone the Github Repo
+#### The Terminal (Reccomended)
+Run `git clone https://github.com/SimpleEdit/editor` in your terminal. 
+After that run `cd editor` in your terminal.
+#### Run On Repl.it
+[Fork this Repl On Repl.it](https://repl.it/@WilliamHorning/editor#README.md)
+### Step 1: Install NPM packages
+Run `npm install` in your terminal to install packages.
+### Step 2: Start your server!
+RUn `npm start` to start your server on port 50000
