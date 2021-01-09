@@ -1,5 +1,5 @@
 # SimpleEdit Editor
-This is the editor.
+This is the editor for SimpleEdit!(Node.js 14.00 or higher required.)
 Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit website") for more info!
 ## Set Up Node Server
 ### Step 0: Clone the Github Repo
