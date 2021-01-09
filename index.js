@@ -16,6 +16,12 @@ app.get('/', (req, res) => {
   res.sendFile(`${__dirname}/views/home.html`);
 });
 /////////////////////////////////
+// Config Page
+/////////////////////////////////
+app.get('/config', (req, res) => {
+  res.sendFile(`${__dirname}/views/config.html`);
+});
+/////////////////////////////////
 // Listen On Port
 /////////////////////////////////
 app.listen(process.env.port||50000, () => {
