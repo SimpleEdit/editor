@@ -11,4 +11,4 @@ After that run `cd editor` in your terminal.
 ### Step 1: Install NPM packages
 Run `npm install` in your terminal to install packages.
 ### Step 2: Start your server!
-RUn `npm start` to start your server on port 50000
+Run `npm start` to start your server on port 50000
