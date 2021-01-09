@@ -16,8 +16,8 @@ app.get('/', (req, res) => {
   res.sendFile(`${__dirname}/views/home.html`);
 });
 /////////////////////////////////
-// Listen On Port 50000
+// Listen On Port
 /////////////////////////////////
-app.listen(50000, () => {
+app.listen(process.env.port||50000, () => {
   console.log('server started');
 });
