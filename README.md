@@ -12,3 +12,7 @@ After that run `cd editor` in your terminal.
 Run `npm install` in your terminal to install packages.
 ### Step 3: Start your server!
 Run `npm start` to start your server on port 50000
+
+## Enjoy!
+SimpleEdit is not even in beta yet, so be paitent!
+NOTE: You only need to clone to repo and fork the repl once. To use it again, simply type `cd editor` again and type `npm start`.
