@@ -15,4 +15,4 @@ Run `npm start` to start your server on port 50000
 
 ## Enjoy!
 SimpleEdit is not even in beta yet, so be patient!
-NOTE: You only need to clone to repo and fork the repl once. To use it again, simply type `cd editor` again and type `npm start`.
+NOTE: You only need to clone the repo and fork the repl once. To use it again, simply type `cd editor` again and type `npm start`.
