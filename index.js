@@ -1,7 +1,7 @@
 /////////////////////////////////
-// SimpleEdit Editor
-// Made by @wgyt and @D1WK
-// LOOK AT LICENSE to read the LICENSE
+// SimpleEdit Editor v1.0
+// Current version made by @wgyt and @D1WK
+// Look at LICENSE.md to read the license
 /////////////////////////////////
 console.log("starting server")
 /////////////////////////////////
