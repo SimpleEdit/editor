@@ -1,6 +1,10 @@
 # SimpleEdit Editor
 This is the editor for SimpleEdit! (Node.js 14.00 or higher required.)
 Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit website") for more info!
+
+# NEW!
+You can now run SimpleEdit directly in your browser! No installation or other software required! [Try it out](https://editor.simpleedit.repl.co "Visit the SimpleEdit web app")
+
 ## Set Up Node Server
 ### Step 1: Clone the Github Repo
 #### The Terminal (Reccomended)
