@@ -3,6 +3,7 @@ This is the editor for SimpleEdit!
 Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit website") for more info!
 
 [![Latest pre-release](https://img.shields.io/github/v/release/SimpleEdit/editor?include_prereleases&label=Latest%20pre-release&color=orange)](https://github.com/SimpleEdit/editor/releases/tag/v0.1-alpha "View the latest pre-release")
+[![Latest pre-release date](https://img.shields.io/github/release-date-pre/SimpleEdit/editor?color=orange&label=Latest%20pre-release%20date)](https://github.com/SimpleEdit/editor/releases/tag/v0.1-alpha "View the latest pre-release")
 [![Commits since latest pre-release](https://img.shields.io/github/commits-since/SimpleEdit/editor/latest?color=orange&include_prereleases&label=Commits%20since%20latest%20pre-release)](https://github.com/SimpleEdit/editor/compare/v0.1-alpha...main "Compare latest commits with the latest release")
 [![Latest commit](https://img.shields.io/github/last-commit/SimpleEdit/editor?label=Latest%20commit)](https://github.com/SimpleEdit/editor/commits/main "View latest commits to main")
 [![Top language](https://img.shields.io/github/languages/top/SimpleEdit/editor)](https://github.com/SimpleEdit/editor/search?l=html "View what's made using the shown langauge")
