@@ -3,7 +3,7 @@
 // Current version made by @wgyt and @D1WK
 // Look at LICENSE.md to read the license
 /////////////////////////////////
-console.log("starting server")
+console.log("starting server, hold on!")
 /////////////////////////////////
 // Set Up Express.Js
 /////////////////////////////////
