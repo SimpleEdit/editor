@@ -26,5 +26,5 @@ app.get('/config', (req, res) => {
 // Listen On Port
 /////////////////////////////////
 app.listen(process.env.port||50000, () => {
-  console.log('server started(port 50000');
+  console.log('server started(port 50000)');
 });
