@@ -15,4 +15,4 @@ Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit websi
 [![Discord](https://img.shields.io/discord/796895982788804638?label=Discord&logo=discord)](https://discord.gg/KsBgjx3XnZ "Join our Discord server")
 
 ## Get started
-We now strongly recommend that you use the [web app](https://editor.simpleedit.repl.co "Open the web app"). If you still want to host the editor app yourself, continue with the steps on [the wiki page](https://github.com/SimpleEdit/editor/wiki/Installation "Visit the Installation wiki page").
+We now strongly recommend that you use the [web app](https://editor.simpleedit.repl.co "Open the web app"). If you still want to host the editor app yourself, continue with the steps on [the wiki page](https://simpleedit.gitbook.io/docs/editor/getting-started "Visit the Installation wiki page").
