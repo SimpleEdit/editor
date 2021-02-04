@@ -2,7 +2,7 @@
 // Current version made by @wgyt, @D1WK and @thecoder876
 // Look at LICENSE.md to read the license
 console.log("starting server, hold on!")
-console.log("Preforming Lakitu skip...")
+console.log("Preforming Lakitu skip... (lol)")
 // Set Up Express.Js
 const express = require('express');
 const app = express();
