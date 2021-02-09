@@ -13,6 +13,7 @@ Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit websi
 [![Web app status](https://img.shields.io/website?down_color=red&down_message=might%20be%20down&label=Web%20app%20status&up_color=green&up_message=up%20%26%20running%20or%20in%20use&url=https%3A%2F%2Feditor.simpleedit.repl.co)](https://editor.simpleedit.repl.co "Open the editor web app")
 [![Website status](https://img.shields.io/website?down_color=red&down_message=down%20or%20under%20maintenance&label=Website%20status&up_color=green&up_message=up&url=https%3A%2F%2Fsimpleedit.github.io)](https://simpleedit.github.io "Visit our website")
 [![Discord](https://img.shields.io/discord/796895982788804638?label=Discord&logo=discord)](https://discord.gg/KsBgjx3XnZ "Join our Discord server")
+[![Gitter](https://badges.gitter.im/SimpleEdit/editor.svg)](https://gitter.im/SimpleEdit/editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge "Join the editor Gitter room")
 
 ## Get started
 We now strongly recommend that you use the [web app](https://editor.simpleedit.repl.co "Open the web app"). If you still want to host the editor app yourself, continue with the steps on [the wiki page](https://simpleedit.gitbook.io/docs/editor/getting-started "Visit the Installation wiki page").
