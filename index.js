@@ -14,6 +14,10 @@ app.get('/', (req, res) => {
 app.get('/config', (req, res) => {
   res.sendFile(`${__dirname}/views/config.html`);
 });
+// Feedback Page
+app.get('/feedback', (req, res) => {
+  res.sendFile(`${__dirname}/views/feedback.html`);
+});
 /////////////////////////////////
 // Listen On Port
 /////////////////////////////////
