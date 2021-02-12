@@ -2,7 +2,7 @@
 // Current version made by @wgyt, @D1WK and @thecoder876
 // Look at LICENSE.md to read the license
 console.log("starting server, hold on!")
-console.log("Preforming Lakitu skip... (lol)")
+console.log("Preforming Lakitu skip...")
 // Set Up Express.Js
 const express = require('express');
 const app = express();
@@ -22,5 +22,5 @@ app.get('/feedback', (req, res) => {
 // Listen On Port
 /////////////////////////////////
 app.listen(process.env.port||50000, () => {
-  console.log("server started on port 50000")');
+  console.log("server started on port 50000");
 });
