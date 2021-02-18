@@ -17,4 +17,4 @@ Please note that SimpleEdit v0.1 is not working yet and is highly unstable. Unle
 [![Gitter](https://badges.gitter.im/SimpleEdit/editor.svg)](https://gitter.im/SimpleEdit/editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge "Join the editor Gitter room")
 
 ## Get started
-We now strongly recommend that you use the [web app](https://editor.simpleedit.repl.co "Open the web app"). If you still want to host the editor app yourself, continue with the steps on [the wiki page](https://simpleedit.gitbook.io/docs/editor/getting-started "Visit the Installation wiki page").
+We now strongly recommend that you use the [web app](https://editor.simpleedit.repl.co "Open the web app"). If you still want to host the editor app yourself, continue with the steps on [our docs](https://simpleedit.gitbook.io/docs/editor/getting-started "Visit the docs page").
