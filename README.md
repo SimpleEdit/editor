@@ -1,6 +1,7 @@
 # SimpleEdit Editor
 This is the editor for SimpleEdit!
 Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit website") for more info!
+Please note that SimpleEdit v0.1 is not working yet and is highly unstable. Unless someone wants to make a special build for you, SimpleEdit is not usable to the public.
 
 [![License](https://img.shields.io/github/license/SimpleEdit/editor?label=License)](https://github.com/SimpleEdit/editor/blob/main/LICENSE "View the license")
 [![Contributors](https://img.shields.io/github/contributors/SimpleEdit/editor?label=Contributors)](https://github.com/SimpleEdit/editor/graphs/contributors "View contributors")
